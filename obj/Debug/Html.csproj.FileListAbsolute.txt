@@ -1,0 +1,7 @@
+F:\c#.net\Html\Html\bin\Debug\Html.exe.config
+F:\c#.net\Html\Html\bin\Debug\Html.exe
+F:\c#.net\Html\Html\bin\Debug\Html.pdb
+F:\c#.net\Html\Html\obj\Debug\Html.csprojAssemblyReference.cache
+F:\c#.net\Html\Html\obj\Debug\Html.csproj.CoreCompileInputs.cache
+F:\c#.net\Html\Html\obj\Debug\Html.exe
+F:\c#.net\Html\Html\obj\Debug\Html.pdb
